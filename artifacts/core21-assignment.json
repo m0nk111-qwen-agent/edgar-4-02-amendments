@@ -1,0 +1,170 @@
+[
+ {
+  "company": "Nukkleus Inc.",
+  "amend_date": "2025-01-08",
+  "amend_accession": "0001213900-25-002067",
+  "gap_bus_days": 0,
+  "category": "D",
+  "note": "reclassifies: the Jan-08 event was Item 8.01, NOT 4.02 (\"filed under Item 4.02... to properly provide... 8.01\")"
+ },
+ {
+  "company": "Next Technology Holding Inc.",
+  "amend_date": "2025-01-17",
+  "amend_accession": "0001213900-25-004640",
+  "gap_bus_days": 5,
+  "category": "A",
+  "note": "tax under-provision: $4.1M deferred-tax adjustment to FY2024"
+ },
+ {
+  "company": "Next Technology Holding Inc.",
+  "amend_date": "2025-01-17",
+  "amend_accession": "0001213900-25-004642",
+  "gap_bus_days": 5,
+  "category": "A",
+  "note": "second NextTech amendment: same process, more detail (WeTrade lineage)"
+ },
+ {
+  "company": "Apple iSports Group, Inc.",
+  "amend_date": "2025-02-19",
+  "amend_accession": "0001477932-25-001134",
+  "gap_bus_days": 25,
+  "category": "C",
+  "note": "change \"not material\", no restatement of prior financials"
+ },
+ {
+  "company": "Apple iSports Group, Inc.",
+  "amend_date": "2025-03-06",
+  "amend_accession": "0001477932-25-001523",
+  "gap_bus_days": 36,
+  "category": "C",
+  "note": "same walk-back, ASC 505-10 analysis appended"
+ },
+ {
+  "company": "Bancorp, Inc.",
+  "amend_date": "2025-03-10",
+  "amend_accession": "0002039852-25-000058",
+  "gap_bus_days": 4,
+  "category": "B",
+  "note": "borderline: refreshes the 4.02 previously disclosed 2025-03-04 (completes disclosure)"
+ },
+ {
+  "company": "AiXin Life International, Inc.",
+  "amend_date": "2025-04-10",
+  "amend_accession": "0001641172-25-003553",
+  "gap_bus_days": 12,
+  "category": "A",
+  "note": "re-delivers restated FY2021 audited financials (replaces originals)"
+ },
+ {
+  "company": "ABVC BIOPHARMA, INC.",
+  "amend_date": "2025-05-02",
+  "amend_accession": "0001213900-25-039184",
+  "gap_bus_days": 1,
+  "category": "A",
+  "note": "FY2023 restated; period defined as \"Restated Period\""
+ },
+ {
+  "company": "SPECTRAL CAPITAL Corp",
+  "amend_date": "2025-05-23",
+  "amend_accession": "0001096906-25-000885",
+  "gap_bus_days": 12,
+  "category": "B",
+  "note": "amends 4.02 \"to provide complete and accurate disclosure\""
+ },
+ {
+  "company": "Pacific Green Technologies Inc.",
+  "amend_date": "2025-06-20",
+  "amend_accession": "0001213900-25-056289",
+  "gap_bus_days": 67,
+  "category": "A",
+  "note": "subsidiary-sale restatement (note: \"will not affect reported net income\")"
+ },
+ {
+  "company": "SPECTRAL CAPITAL Corp",
+  "amend_date": "2025-06-26",
+  "amend_accession": "0001096906-25-001041",
+  "gap_bus_days": 16,
+  "category": "C",
+  "note": "original 4.02 itself \"was inaccurate\" \u2014 retraction"
+ },
+ {
+  "company": "Crypto Co",
+  "amend_date": "2025-07-08",
+  "amend_accession": "0001641172-25-018173",
+  "gap_bus_days": 3,
+  "category": "A",
+  "note": "2023 non-reliance widened into 2024"
+ },
+ {
+  "company": "GRAPHJET TECHNOLOGY",
+  "amend_date": "2025-07-14",
+  "amend_accession": "0001213900-25-063714",
+  "gap_bus_days": 13,
+  "category": "B",
+  "note": "\"solely to clarify, in response to a comment from the SEC staff\""
+ },
+ {
+  "company": "Crypto Co",
+  "amend_date": "2025-08-04",
+  "amend_accession": "0001641172-25-022034",
+  "gap_bus_days": 3,
+  "category": "A",
+  "note": "2024 non-reliance widened into 2025 interims"
+ },
+ {
+  "company": "CYTTA CORP.",
+  "amend_date": "2025-08-07",
+  "amend_accession": "0001477932-25-005539",
+  "gap_bus_days": 19,
+  "category": "B",
+  "note": "fixes non-compliant original disclosure (\"did not comply with all requirements\")"
+ },
+ {
+  "company": "NEONC TECHNOLOGIES HOLDINGS, INC.",
+  "amend_date": "2025-08-20",
+  "amend_accession": "0001829126-25-006524",
+  "gap_bus_days": 2,
+  "category": "B",
+  "note": "completes the 4.02 disclosure"
+ },
+ {
+  "company": "SHF Holdings, Inc.",
+  "amend_date": "2025-08-22",
+  "amend_accession": "0001641172-25-025203",
+  "gap_bus_days": 6,
+  "category": "B",
+  "note": "completes/corrects the 4.02 disclosure"
+ },
+ {
+  "company": "La Rosa Holdings Corp.",
+  "amend_date": "2026-05-01",
+  "amend_accession": "0001213900-26-050950",
+  "gap_bus_days": 5,
+  "category": "A",
+  "note": "rewrite of the restatement (La Rosa)"
+ },
+ {
+  "company": "GROOVY COMPANY, INC.",
+  "amend_date": "2026-05-28",
+  "amend_accession": "0001499275-26-000014",
+  "gap_bus_days": 11,
+  "category": "E",
+  "note": "conditional boilerplate: \"any such determination, if made, would be disclosed\""
+ },
+ {
+  "company": "American Resources Corp",
+  "amend_date": "2026-07-29",
+  "amend_accession": "0001477932-26-004585",
+  "gap_bus_days": 3,
+  "category": "A",
+  "note": "auditor GreenGrowth withdrew its FY2025 opinion; UHY re-audits (4.02 \"related audit report\" branch)"
+ },
+ {
+  "company": "Northann Corp.",
+  "amend_date": "2026-08-24",
+  "amend_accession": "0001575872-26-000605",
+  "gap_bus_days": 0,
+  "category": "C",
+  "note": "\"did not identify any specific items in the financial statements... as being incorrect\" + 4.01 change"
+ }
+]

@@ -30,11 +30,16 @@
  "hand_read": {
   "n": 21,
   "typology": {
-   "expand": 5,
-   "correct": 5,
-   "retract_soften": 4,
-   "reclassify": 2,
-   "boilerplate_fp": 2
-  }
+   "A_expand_confirm": 9,
+   "B_correct": 6,
+   "C_retract_soften": 4,
+   "D_reclassify": 1,
+   "E_boilerplate_fp": 1
+  },
+  "true_ongoing": 15,
+  "precision_flag_plus_item": 0.714,
+  "precision_flag_only": 0.165,
+  "floor_base_rate": 0.006,
+  "join_validated": "18/18 stated the original date in-text, all matched"
  }
 }
