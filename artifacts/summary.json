@@ -1,0 +1,40 @@
+{
+ "quarters": "2025Q1-2026Q3",
+ "amendments_collected": 2575,
+ "amendments_paired": 2510,
+ "unpaired_no_base_in_history": 65,
+ "quarterly_8ka_volume": [
+  395,
+  333,
+  383,
+  357,
+  352,
+  364,
+  391
+ ],
+ "gap_business_days": {
+  "median": 3.0,
+  "p75": 12,
+  "p95": 36,
+  "share_within_72h": 0.455
+ },
+ "filer_prefix_match": 0.89,
+ "language_flags": {
+  "non_reliance": 91,
+  "item_402": 23,
+  "both_core": 21,
+  "restatement_word": 755,
+  "material_weakness": 103
+ },
+ "core_within_72h": 4,
+ "hand_read": {
+  "n": 21,
+  "typology": {
+   "expand": 5,
+   "correct": 5,
+   "retract_soften": 4,
+   "reclassify": 2,
+   "boilerplate_fp": 2
+  }
+ }
+}
